@@ -4,13 +4,13 @@ import time
 import threading
 from telebot.types import *
 
-TOKEN = "PASTE_YOUR_BOT_TOKEN"
+TOKEN = "8253626154:AAFXu5GwxOibk_4D1snfhFobtS1pxg8X8Z4"
 
 GROUP_ID = -1003549378995
 ADMIN_ID = 8626918981
 
 CHANNEL_LINK = "https://t.me/YOUR_CHANNEL"
-BOT_LINK = "https://t.me/numberfast12_bot"
+BOT_LINK = "https://t.me/number0022_bot"
 
 bot = telebot.TeleBot(TOKEN)
 
