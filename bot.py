@@ -11,7 +11,7 @@ GROUP_ID = -1003549378995
 ADMIN_ID = 8626918981
 
 CHANNEL_LINK = "https://t.me/YOUR_CHANNEL"
-BOT_LINK = "https://t.me/YOUR_BOT"
+BOT_LINK = "https://t.me/@number0022_bot"
 
 bot = telebot.TeleBot(TOKEN)
 
